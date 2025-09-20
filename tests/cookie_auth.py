@@ -17,6 +17,7 @@ from rich.console import Console
 from rich import print as rprint
 from src.auth import TongjiAuthenticator
 
+
 def demo_enhanced_authentication():
     """演示增强版认证功能"""
     console = Console()

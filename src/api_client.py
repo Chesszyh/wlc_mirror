@@ -198,4 +198,3 @@ class TongjiAPIClient:
         """获取通用信息"""
         response = self._make_request("GET", "/common/")
         return response.json()
-
