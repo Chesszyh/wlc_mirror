@@ -4,3 +4,6 @@
 [submodule "wlc_backend"]
 	path = wlc_backend
 	url = https://github.com/SJTU-jCourse/jcourse_api
+[submodule "wlc_frontend_vite"]
+  path = wlc_frontend_vite
+  url = https://github.com/SJTU-jCourse/jcourse_vite
