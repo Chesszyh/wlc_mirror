@@ -1,2 +1,9 @@
-requests 
+requests
 rich
+jinja2
+selenium
+webdriver-manager
+cloudscraper
+mkdocs
+mkdocs-material
+mkdocs-minify-plugin

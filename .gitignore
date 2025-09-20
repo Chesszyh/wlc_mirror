@@ -1,3 +1,9 @@
 cookies.ini
 cookies.json
 __pycache__/
+# mkdocs build(太多了，暂时忽略，最后统一推送)
+test_docs/
+docs/
+site/
+
+*.log
