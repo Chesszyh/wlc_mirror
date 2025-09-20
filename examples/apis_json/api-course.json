@@ -1,0 +1,307 @@
+{
+  "count": 8451,
+  "next": "http://1.tongji.icu/api/course/?page=2&page_size=3",
+  "previous": null,
+  "results": [
+    {
+      "id": 29300,
+      "categories": [
+        "工程能力与创新思维"
+      ],
+      "department": "行政",
+      "teacher": "裴培",
+      "rating": {
+        "count": 5,
+        "avg": 3.4
+      },
+      "code": "00200901",
+      "name": "大学生创业基础",
+      "credit": 0
+    },
+    {
+      "id": 8606,
+      "categories": [
+        "工程能力与创新思维"
+      ],
+      "department": "行政",
+      "teacher": "王娇楠",
+      "rating": {
+        "count": 5,
+        "avg": 4.4
+      },
+      "code": "00200902",
+      "name": "大学生创业基础",
+      "credit": 0
+    },
+    {
+      "id": 29301,
+      "categories": [
+        "工程能力与创新思维"
+      ],
+      "department": "行政",
+      "teacher": "李崇凯",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00200903",
+      "name": "大学生创业基础",
+      "credit": 0
+    },
+    {
+      "id": 8607,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "方雅静",
+      "rating": {
+        "count": 6,
+        "avg": 5
+      },
+      "code": "00201001",
+      "name": "职业指导",
+      "credit": 0
+    },
+    {
+      "id": 29302,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "徐翠婷",
+      "rating": {
+        "count": 1,
+        "avg": 5
+      },
+      "code": "00201001",
+      "name": "职业指导",
+      "credit": 0
+    },
+    {
+      "id": 43703,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "徐翠婷",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201002",
+      "name": "职业指导",
+      "credit": 0
+    },
+    {
+      "id": 29303,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "方雅静",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201003",
+      "name": "职业指导",
+      "credit": 0
+    },
+    {
+      "id": 8608,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "杨璐柳婷",
+      "rating": {
+        "count": 5,
+        "avg": 5
+      },
+      "code": "00201501",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29304,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "曾盈",
+      "rating": {
+        "count": 2,
+        "avg": 5
+      },
+      "code": "00201501",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 8609,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "克热木·阿布都米吉提",
+      "rating": {
+        "count": 1,
+        "avg": 5
+      },
+      "code": "00201502",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29305,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "王尔根",
+      "rating": {
+        "count": 1,
+        "avg": 1
+      },
+      "code": "00201502",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 8610,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "肖斌文",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201503",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29306,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "克热木·阿布都米吉提",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201503",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 8611,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "克热木·阿布都米吉提",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201504",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29307,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "曹晓玲",
+      "rating": {
+        "count": 1,
+        "avg": 4
+      },
+      "code": "00201504",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 8612,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": null,
+      "teacher": "曹晓玲",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201505",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29308,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "程春兰",
+      "rating": {
+        "count": 3,
+        "avg": 4.33333333333333
+      },
+      "code": "00201505",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 29309,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "刘永焕",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201506",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 43704,
+      "categories": [
+        "社会发展与国际视野"
+      ],
+      "department": "行政",
+      "teacher": "程春兰",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00201507",
+      "name": "大学生职业生涯规划",
+      "credit": 0
+    },
+    {
+      "id": 8613,
+      "categories": [
+        "工程能力与创新思维"
+      ],
+      "department": "行政",
+      "teacher": "张绣宇",
+      "rating": {
+        "count": 0,
+        "avg": 0
+      },
+      "code": "00209601",
+      "name": "创业案例分析与研究",
+      "credit": 0
+    }
+  ]
+}
